@@ -43,11 +43,11 @@ I work in **IT** and I’m a **Cybersecurity** student focused on **Red Team Ope
 
 <div align="left">
   <marquee behavior="scroll" direction="left" scrollamount="6">
-    <img src="https://skillicons.dev/icons?i=python,bash,c,cpp,linux,windows,git,github,vscode" />
-    &nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="https://skillicons.dev/icons?i=python,bash,c,cpp,linux,windows,git,github,vscode" />
+    <img src="https://skillicons.dev/icons?i=python,bash,c,cpp,linux" />
+    <img src="https://skillicons.dev/icons?i=windows,git,github,vscode" />
   </marquee>
 </div>
+
 ---
 
 ## Cybersecurity Tools
