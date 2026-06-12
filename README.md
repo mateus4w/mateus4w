@@ -42,9 +42,12 @@ I work in **IT** and I’m a **Cybersecurity** student focused on **Red Team Ope
 ## Languages and Technologies
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=python,bash,c,cpp,linux,windows,git,github,vscode" />
+  <marquee behavior="scroll" direction="left" scrollamount="6">
+    <img src="https://skillicons.dev/icons?i=python,bash,c,cpp,linux,windows,git,github,vscode" />
+    &nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://skillicons.dev/icons?i=python,bash,c,cpp,linux,windows,git,github,vscode" />
+  </marquee>
 </div>
-
 ---
 
 ## Cybersecurity Tools
